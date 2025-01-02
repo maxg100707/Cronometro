@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(155, 219, 219);
+    
+}
+header{
+    font: normal 15pt Arial;
+    text-align: center;
+
+}
+section{
+    background-color: rgb(35, 144, 216);
+    font: normal 15pt Arial;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.404);
+    text-align: center;
+
+}
+h2#tempo{
+    font: normal 45pt Arial;
+}
+button#stop{
+    background-color: rgb(255, 0, 0);
+    height: 60px;
+    width: 100px;
+}
+button#stop:hover{
+    background-color: rgb(212, 13, 13);
+}
+button#reset{
+    background-color: rgb(255, 238, 0);
+    height: 60px;
+    width: 100px;
+}
+button#reset:hover{
+    background-color: rgb(212, 199, 13);
+}
+button#start{
+    background-color: rgb(0, 255, 21);
+    height: 60px;
+    width: 100px;
+}
+button#start:hover{
+    background-color: rgb(12, 206, 28);
+}
+button:active{
+    transform: scale(0.9);
+}
+footer{
+    font-style: italic;
+    text-align: center;
+
+}
