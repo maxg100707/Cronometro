@@ -58,3 +58,24 @@ function reset() {
   min = 0;
   hora = 0;
 }
+/*
+        _             _
+       / \           / \
+      /   \         /   \
+     /     \_______/     \
+    /  ___           ___  \
+   |  / ()\         / ()\  |
+   |  \___/         \___/  |
+   |           ___         |
+   \          |___|        /
+    \           |         /
+     \      \___|___/    /
+      \_               _/
+        \_____________/  
+           MIAW MIAW
+
+
+instagram : https://www.instagram.com/maxg1007/
+portifolio : https://maxg100707.github.io/Portifolio/
+
+*/
